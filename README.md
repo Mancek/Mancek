@@ -1,11 +1,11 @@
-### Hi there, I'm Manuel aka [Mancek] 👋
+### Hi there, I'm Manuel 👋
 
 ## I'm a Student, Developer and Teacher!!
 
-- 🔭 I'm wokring on projects related to CroHerze[chsite]
+- 🔭 I'm wokring on projects related to [CroHerze][chsite]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:I like to play videogames
+- ⚡ Fun fact: I like to play videogames
 
 ### Spotify Playing 🎧
 
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
 [<img align="left" alt="ASP.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />]
 [<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
