@@ -42,6 +42,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Mancek/Mancek/pull/1) in [Mancek/Mancek](https://github.com/Mancek/Mancek)
+2. 💪 Opened PR [#1](https://github.com/Mancek/Mancek/pull/1) in [Mancek/Mancek](https://github.com/Mancek/Mancek)
 <!--END_SECTION:activity-->
 
 </details>
