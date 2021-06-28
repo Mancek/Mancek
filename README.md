@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mancek's GitHub Stats" src="https://github-readme-stats.Mancek.vercel.app/api?username=Mancek&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mancek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mancek&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
