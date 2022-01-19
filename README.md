@@ -9,6 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Mancek | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="manuel_plasc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="manuel.plasc | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mancek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -50,3 +53,6 @@
 
 [chsite]: https://croherze.com
 [discord]: https://discordapp.com/users/246989734881132545
+[twitter]: https://twitter.com/manuel_plasc
+[facebook]: https://www.facebook.com/manuel.plasc
+[instagram]: https://www.instagram.com/manuelplasc
