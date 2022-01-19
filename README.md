@@ -3,9 +3,8 @@
 ## I'm a Student and Developer!!
 
 - 🔭 I'm wokring on projects related to [CroHerze][chsite]
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like to play videogames
+- 📙 I’m currently learning Android development and Machine learning/Artificial intelligence
+- 😄 Fun fact: I like to play videogames
 
 ### Connect with me:
 
