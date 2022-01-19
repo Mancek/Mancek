@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel 👋
 
-## I'm a Student and a Developer!!
+## I'm a Student and Developer!!
 
 - 🚧 I'm wokring on projects related to [CroHerze][chsite]
 - 📙 I’m currently learning Android development and Machine learning/Artificial intelligence
