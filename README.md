@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 - 🚧 I'm wokring on projects related to [CroHerze][chsite]
-- 📙 I’m currently learning Android development and Machine learning/Artificial intelligence
+- 📙 I’m currently learning PHP and Python
 - 😄 Fun fact: I like to play videogames
 
 ### Connect with me:
