@@ -1,7 +1,5 @@
 ### Hi there, I'm Manuel 👋
 
-## I'm a Student and Developer!!
-
 - 🚧 I'm wokring on projects for [Biss.hr][biss] and [CroHerze][chsite]
 - 📙 I’m currently learning Flutter and SpringBoot
 
