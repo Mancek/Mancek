@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel 👋
 
-- 🚧 I'm wokring on projects for [Biss.hr][biss] and [CroHerze][chsite]
+- 🚧 I'm wokring on projects for [CroHerze][chsite]
 - 📙 I’m currently learning Flutter and SpringBoot
 
 ### Connect with me:
@@ -47,6 +47,5 @@
 </details>
 
 [chsite]: https://croherze.com
-[biss]: https://www.biss.hr/
 [twitter]: https://twitter.com/manuel_plasc
 [facebook]: https://www.facebook.com/manuel.plasc
