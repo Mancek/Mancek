@@ -1,12 +1,4 @@
 ### Hi there, I'm Manuel 👋
-
-- 🚧 I'm wokring on projects for [CroHerze][chsite]
-- 📙 I’m currently learning Flutter and SpringBoot
-
-### Connect with me:
-
-[<img align="left" alt="manuel_plasc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="manuel.plasc | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ### Languages and Tools:
@@ -45,7 +37,3 @@
   <img align="left" alt="Mancek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mancek&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
-
-[chsite]: https://croherze.com
-[twitter]: https://twitter.com/manuel_plasc
-[facebook]: https://www.facebook.com/manuel.plasc
